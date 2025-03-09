@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -g CMakeFiles/cyb3053_project2.dir/src/alloc.c.o CMakeFiles/cyb3053_project2.dir/src/test.c.o -o cyb3053_project2 
