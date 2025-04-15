@@ -1,10 +1,5 @@
 # CYB-3053 Project 2: Memory Allocator
 
-**Course**: Operating Systems Concepts (CYB-3053)  
-**Term**: Spring 2025  
-**Author**: Faizefied393  
-**Repository**: https://github.com/Faizefied393/OSProject2_
-
 ## Overview
 
 This project implements a custom memory allocator in C, replicating the behavior of `malloc`, `calloc`, `realloc`, and `free`. The allocator manages a free list and dynamically expands the heap using `sbrk()` when necessary. Several memory allocation strategies are supported, including extra credit implementations.
